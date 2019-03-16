@@ -1,0 +1,62 @@
+body{
+    width:100%;
+    margin:auto;
+    min-width:600px;
+    max-width:2000px;
+}
+
+ul {
+  list-style-type: none;
+	  margin: 0;
+	  padding: 0;
+	  overflow: relative;
+	  top: 0;
+	  width: 100%;
+  background-color: #FFFFFF;
+  height:75px;
+  font-size: 20px;
+  }
+
+li a {
+  color: #000;
+  text-align: center;
+  padding: 5px 5px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: black;
+  color: white;
+}
+.active {
+  background-color: black;
+  color: white;
+}
+li {
+  float: left;
+  
+  }
+  
+.tex {
+text-align: center;
+}
+
+.XD {
+margin:30px;
+padding:5px;
+ font-variant: small-caps;
+}
+
+div  {
+  border-bottom: 3px solid black;
+}
+
+.Centered {
+ text-align:center;
+}
+
+.Centered1 {
+ text-align:center;
+ border: 3px solid grey;
+ 
+}
